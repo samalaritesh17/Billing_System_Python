@@ -2,8 +2,8 @@ import boto3
 import os
 
 # Set environment variables (use your actual AWS keys)
-os.environ['AWS_ACCESS_KEY_ID'] = 'AKIATHVQLFSCS3OKWZOD'
-os.environ['AWS_SECRET_ACCESS_KEY'] = 'JMJ1OomNIWwQmk1f3Zw39vt6aSS8foRNePvnAWjk'
+os.environ['AWS_ACCESS_KEY_ID'] = ''
+os.environ['AWS_SECRET_ACCESS_KEY'] = ''
 
 
 def upload_pdf_to_s3(file_path, bucket_name, folder_name):
