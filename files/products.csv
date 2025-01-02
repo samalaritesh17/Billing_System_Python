@@ -1,0 +1,41 @@
+productId,name,price,quantity,category
+1,Rice,50,81,Food
+2,Wheat Flour,45,149,Food
+3,Pasta,80,50,Food
+4,Bread,30,47,Food
+5,Biscuits,25,198,Food
+6,Butter,150,32,Food
+7,Milk,50,95,Food
+8,Eggs,5,158,Food
+9,Cheese,200,19,Food
+10,Yogurt,60,45,Food
+11,Potato,20,100,Vegetables
+12,Tomato,30,111,Vegetables
+13,Onion,25,74,Vegetables
+14,Carrot,40,60,Vegetables
+15,Beans,50,50,Vegetables
+16,Spinach,20,30,Vegetables
+17,Cabbage,35,40,Vegetables
+18,Capsicum,60,25,Vegetables
+19,Cucumber,20,86,Vegetables
+20,Garlic,100,15,Vegetables
+21,Chicken,200,39,Non-Veg
+22,Mutton,500,27,Non-Veg
+23,Fish,300,40,Non-Veg
+24,Prawns,600,17,Non-Veg
+25,Eggs,5,158,Non-Veg
+26,Crab,700,10,Non-Veg
+27,Lobster,900,4,Non-Veg
+28,Duck,350,8,Non-Veg
+29,Turkey,400,6,Non-Veg
+30,Bacon,250,20,Non-Veg
+31,Shampoo,150,50,Cosmetics
+32,Conditioner,200,37,Cosmetics
+33,Face Wash,100,60,Cosmetics
+34,Body Lotion,250,30,Cosmetics
+35,Lipstick,300,6,Cosmetics
+36,Kajal,120,45,Cosmetics
+37,Foundation,400,24,Cosmetics
+38,Perfume,500,4,Cosmetics
+39,Hair Oil,100,70,Cosmetics
+40,Soap,40,88,Cosmetics

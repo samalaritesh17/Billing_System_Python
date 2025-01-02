@@ -1,0 +1,7 @@
+empId,name,contact
+101,Rahul Sharma,9876543210
+102,Priya Singh,8765432198
+103,Anil Kumar,7654321987
+104,Sneha Reddy,6543219876
+105,Ramesh Rao,5432198765
+106,Rashmika,6755448392
